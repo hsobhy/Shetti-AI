@@ -1,7 +1,8 @@
 # Shetti-AI: Generative Intelligence for Protein Motif Engineering
 
 ## Status 
-> **Manuscript in Preparation.** 
+> **Manuscript in Preparation.**
+> 
 > This repository contains the Phase 1 computational pipeline. For inquiries regarding Phase 2 modules or collaboration, please contact the author directly via GitHub.
 
 ---
