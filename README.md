@@ -49,7 +49,7 @@ If you use this code or the associated methodology, please cite as:
 ## Author & Contact
 Sobhy H. 
 Email: hsobhy@live.com 
-GitHub: (@hsobhy)
+GitHub: (https://github.com/hsobhy)
 
 ---
 
@@ -61,7 +61,7 @@ GitHub: (@hsobhy)
 
 ---
 
-### License
+## License
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. 
 *Note: This license requires that if you modify this software and run it on a network, you must make your modified source code available to your users. Non-commercial users should contact the author.*
 
