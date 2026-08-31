@@ -1,7 +1,7 @@
-# Shetti-AI: Generative Intelligence for Protein Motif Engineering
+# Shetti-AI: Precise prediction of protein sequence mutational landscapes to accelerate functional assays
 
 ## Status 
-> **Manuscript in Preparation.**
+> **Manuscript is under revision.**
 > 
 > This repository contains the Phase 1 computational pipeline. For inquiries regarding Phase 2 modules or collaboration, please contact the author directly via GitHub.
 
@@ -43,13 +43,12 @@ pip install numpy torch biopython
 
 ## Citation & Usage
 If you use this code or the associated methodology, please cite as:
-**Sobhy. A High-Precision AI Framework for the Prediction of Functional Motif Mutation and Conservation (In Preparation).**
+**Sobhy. Shetti-AI: Precise prediction of protein sequence mutational landscapes to accelerate functional assays (Under Revision).**
 
 ---
 
 ## Author & Contact
-Sobhy H. 
-Email: hsobhy@live.com 
+Haitham Sobhy 
 GitHub: (https://github.com/hsobhy)
 
 ---
@@ -62,9 +61,16 @@ GitHub: (https://github.com/hsobhy)
 
 ---
 
-## License
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. 
-*Note: This license requires that if you modify this software and run it on a network, you must make your modified source code available to your users. Non-commercial users should contact the author.*
+# 🔒 Copyright & Usage Restrictions
+**Copyright (c) 2026 Haitham Sobhy. All Rights Reserved.**
+
+This notebook and associated code are provided **solely for non-profit academic research and peer-review evaluation**.
+
+- **Citation Requirement:** If you use, reference, or evaluate this work, you must cite:
+  > **Shetti-AI: Precise prediction of protein sequence mutational landscapes to accelerate functional assays (Under Revision)**
+- **Corporate R&D & Commercial Restriction:** Any use, execution, or testing by commercial entities, for-profit corporations, or corporate R&D divisions is **STRICTLY PROHIBITED**.
+- **Permissions:** No part of this codebase may be copied, redistributed, or modified without prior explicit written permission.
+- **Contact:** `hsobhy at live dot com`
 
 
 
